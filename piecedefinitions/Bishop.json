@@ -4,8 +4,78 @@
     "IsDivergent": false,
     "CheckDuplicateMoves": false,
     "EstimatedValue": 3.1,
-    "stepleapmovevectors": [],
-    "slidemovevectors": [{"x": 1, "y": 1, "z": 0}, {"x": 1, "y": -1, "z": 0}, {"x": -1, "y": -1, "z": 0}, {"x": -1, "y": 1, "z": 0},
-                         {"x": 1, "y": 0, "z": 1}, {"x": 1, "y": 0, "z": -1}, {"x": -1, "y": 0, "z": -1}, {"x": -1, "y": 0, "z": 1},
-                         {"x": 0, "y": 1, "z": 1}, {"x": 0, "y": 1, "z": -1}, {"x": 0, "y": -1, "z": -1}, {"x": 0, "y": -1, "z": 1}]
+    "slidemovevectors": [
+        {
+            "x": 1,
+            "y": 1,
+            "z": 0,
+            "maxrange": 0
+        },
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0,
+            "maxrange": 0
+        },
+        {
+            "x": -1,
+            "y": -1,
+            "z": 0,
+            "maxrange": 0
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 0,
+            "maxrange": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "maxrange": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -1,
+            "maxrange": 0
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": -1,
+            "maxrange": 0
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "maxrange": 0
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "maxrange": 0
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": -1,
+            "maxrange": 0
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": -1,
+            "maxrange": 0
+        },
+        {
+            "x": 0,
+            "y": -1,
+            "z": 1,
+            "maxrange": 0
+        }
+    ]
 }
